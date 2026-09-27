@@ -5,3 +5,6 @@ Features
 Responsive Layout: Tailored with Tailwind CSS
 Interactive UI: Dynamic modal resume view, copy-to-clipboard toast messages
 Interconnected Sourcing Links: Seamless routing to Alex's Weebly domain sections and social profiles
+
+
+Open via : > Open with ** ( use chrome for best viewing, but Mozilla/Firefox, Brave and Safari work just fine)
